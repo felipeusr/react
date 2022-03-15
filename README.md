@@ -7,3 +7,4 @@
 ## React State Mutable Data
 - useState() in Functional Component
 - this.state({}) in Class Component
+<img src="ex1.png" width="600px" />
