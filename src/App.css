@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-magma {
+  color: #903d4f;
+}
+
+.container {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 10px 20px 10px 20px;
+}
+
+.btn {
+  width: 125px;
+  height: 40px;
+  border: 2px solid #fff;
+  background-color: transparent;
+  color: #fff;
+  font: 18px Verdana;
+  font-weight: bold;
+}
+
+.btn:hover {
+  color: #000;
+  background-color: #fff;
+}
+
+.flex {
+  display: flex;
+}
